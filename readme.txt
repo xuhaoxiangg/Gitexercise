@@ -1,3 +1,3 @@
 Git is a version control system.
 Git is free software.
-Git¡£
+Git is nice and cool.
